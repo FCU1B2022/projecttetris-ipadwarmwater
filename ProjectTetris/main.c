@@ -284,5 +284,3 @@ int main()
 
     system("cls");
     printf("\e[?25l"); // hide cursor
-
-}
